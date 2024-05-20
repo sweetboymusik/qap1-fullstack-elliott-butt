@@ -1,0 +1,11 @@
+{
+  "name": "qap1-fullstack-elliott-butt",
+  "version": "1.0.0",
+  "description": "QAP 1 - Introduction to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
