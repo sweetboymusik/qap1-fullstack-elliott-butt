@@ -1,14 +1,13 @@
 /*
 Description:
-The os module is used to obtain informaiton
-about the operating system. There are several
-poperties and methods provided to gain insights
-about the underling system the application is
-running on, such as the platform, memory,
-and cpu information.
+The os module is used to obtain informaiton about
+the operating system. There are several poperties 
+and methods provided to gain insights about the 
+underling system the application is running on, 
+such as the platform, memory, and cpu information.
 */
 
-// import the os module
+// import os module
 const os = require("os");
 
 // module features

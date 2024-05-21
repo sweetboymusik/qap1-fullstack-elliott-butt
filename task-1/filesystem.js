@@ -1,6 +1,6 @@
 /*
 Description:
-Module used to access and manipulate the file system.
+This module is used to access and manipulate the file system.
 There are three sets of APIs: promises, callback,
 and synchronus. Can be used to read, write, update,
 append, and delete files, among other operations.
