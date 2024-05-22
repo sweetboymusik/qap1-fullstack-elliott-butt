@@ -1,7 +1,7 @@
 /*
 Description:
 This module provides methods for working with directories
-and file paths. Allows you to to with with your file-
+and file paths. Allows you to work with your file-
 system without having to worry about platform 
 idiosyncracies, making it reliable across
 various platforms.
