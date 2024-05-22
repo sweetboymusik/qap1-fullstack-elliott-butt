@@ -1,8 +1,0 @@
-QAP1 - Full-Stack
-Elliott Butt
-
-1. 3-4 hours, mostly research on what modules/packages to use
-2. NPM documentation and W3Schools + google and stackoverflow
-3. No, I did not have to ask friends for help.
-4. No I did not need to ask questions of my instructors.
-5. Relatively simple. Funny enough, the word descriptions were the hardest part! 
